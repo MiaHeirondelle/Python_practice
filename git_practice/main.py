@@ -54,4 +54,3 @@ def find_attractions(destination, interests):
     return(attractions_with_interest)
 
 la_arts = find_attractions("Los Angeles, USA", ['art'])
-print(la_arts)
